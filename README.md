@@ -77,4 +77,4 @@ $$
 $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
 
 
-$\sum_{i=1}^n\chi_i\:=\:\sum$
+$\sum_{i=1}^n{x_i}\:=\:\sum$
