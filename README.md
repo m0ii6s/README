@@ -12,4 +12,4 @@ https://www.youtube.com/watch?v=MDM027J_gM0
 
 cod 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MDM027J_gM0?si=yRgJnZiL-w7H9QVu" width_"60%"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MDM027J_gM0?si=yRgJnZiL-w7H9QVu" width_"60%"/></iframe>
