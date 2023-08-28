@@ -8,7 +8,7 @@
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/prueba.jpg" width="100%"/>
 
-video prueba [del yutu] (https://www.youtube.com/watch?v=MDM027J_gM0)
+video prueba [del yutu] (https://www.youtube.com/watch?v=MDM027J_gM0){\theta_1:=:100}
 
 - correo electronico:** [moii513@hotmail.com]
 - **telegram:** 
@@ -75,3 +75,6 @@ $$
 
 
 $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+
+
+$\sum_{i=1}^n\chi_i\:=\:\sum$
