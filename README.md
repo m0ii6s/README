@@ -69,3 +69,5 @@ $$
 \end{matrix}
 \end{equation} 
 $$
+
+{\theta_1\:=\:100}
