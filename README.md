@@ -98,7 +98,15 @@ las partes del algoritmo y el nombre de las variables en minúsculas:`
     // El ejemplo más simple de la Ayuda de PSeInt (2003)
     // Solicita dos numeros, los suma y muestra el resultado
 ```
+Hola, a quien corresponda:
+estas son mis tareas de toda la unidad 1
+Tarea 1.1
 
+Tarea 1.2
+
+Tarea 1.3
+
+Tarea 1.4
 
 
 no pude subir los videos, asi que los subí a drive, aquí el siguiente enlace:
