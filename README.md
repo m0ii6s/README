@@ -100,17 +100,26 @@ las partes del algoritmo y el nombre de las variables en minúsculas:`
 ```
 Hola, a quien corresponda:
 estas son mis tareas de toda la unidad 1
-Tarea 1.1
-<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%201.1%20-%201.2.jpg" width="100%"/>
+#Tarea 1.1
 
 
 
-Tarea 1.2
 
-Tarea 1.3
 
-Tarea 1.4
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%201.1%20-%201.2.jpg" width="60%"/>
 
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%201.1%20-%201.2.jpg" width="60%"/>
+
+
+
+
+#Tarea 1.2 Cuestionario
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%201.jpg" width="60%"/>
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%202.jpg" width="60%"/>
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%203.jpg" width="60%"/>
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%204.jpg" width="60%"/>
+#Tarea 1.3 Collage
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Collage.jpg" width="60%"/>
 
 no pude subir los videos, asi que los subí a drive, aquí el siguiente enlace:
 
