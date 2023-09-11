@@ -101,6 +101,9 @@ las partes del algoritmo y el nombre de las variables en minúsculas:`
 Hola, a quien corresponda:
 estas son mis tareas de toda la unidad 1
 Tarea 1.1
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%201.1%20-%201.2.jpg" width="100%"/>
+
+
 
 Tarea 1.2
 
