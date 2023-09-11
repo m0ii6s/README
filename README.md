@@ -114,10 +114,14 @@ estas son mis tareas de toda la unidad 1
 
 
 #Tarea 1.2 Cuestionario
+
+
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%201.jpg" width="60%"/>
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%202.jpg" width="60%"/>
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%203.jpg" width="60%"/>
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%204.jpg" width="60%"/>
+
+
 #Tarea 1.3 Collage
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Collage.jpg" width="60%"/>
 
