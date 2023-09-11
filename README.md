@@ -106,7 +106,7 @@ no pude subir los videos, asi que los subí a drive, aquí el siguiente enlace:
 Tutorial de compra de un dispositivo de computo
 https://drive.google.com/drive/folders/1-5CsxhHBD2BGhYeIdOB_3MaUxWSwBwzT
 
-Mi compi
+Especificaciones de mi equipo de cómputo
 https://drive.google.com/drive/folders/1-45o9w8r0FdIvsdcp9qZ3SuBIGdHL2Uv
 
 
