@@ -18,7 +18,7 @@ Introducción:
 ### UNIDAD II
 Software
 - [Conceptos básicos de Software](Tarea2-1.md)
-- [Sistemas de codificación]
+- [Sistemas de codificación](Tarea2-2.md)
 - [Pseudocodigo]
 - [Algoritmos]
 - [De pseudocódigo a R]
