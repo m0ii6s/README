@@ -2,7 +2,7 @@
 <img src="Images/UAM Logo PNG.png" alt="UAM I" width="20%"/>
 
 # Informatica
-## De la Rosa Becerril Moises Abrahama
+## De la Rosa Becerril Moises Abraham
 **Correo Electronico:**  m.delarosa.b.a@gmail
 
 
