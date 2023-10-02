@@ -1,4 +1,4 @@
-# LA COMPUTADORA Y SU CONTEXTO HISTÓRICO
+# LA COMPUTADORA Y SU CONTEXTO HISTÓRICO.
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%201.1%20-%201.2.jpg" height="400" width="550">
 
