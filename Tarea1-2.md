@@ -1,4 +1,4 @@
-#  LA DISCIPLINA DE LA COMPUTACIÓN, CONTEXTO HISTÓRICO, EVOLUCIÓN E IMPORTANCIA
+#  LA DISCIPLINA DE LA COMPUTACIÓN, CONTEXTO HISTÓRICO, EVOLUCIÓN E IMPORTANCIA.
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Cuestionario%201.jpg" height="700" width="500">
 
