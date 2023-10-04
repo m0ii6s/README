@@ -9,32 +9,29 @@
 Se refiere a los derechos legales que protegen la creación y distribución de programas de computadora, incluyendo el código fuente y el código objeto, mediante leyes de derechos de autor y patentes.
 Derechos de autor: Un programador crea un nuevo software de edición de imágenes y le otorga derechos de autor. Nadie más puede copiar, distribuir o modificar el software sin su permiso.
 
-### Patente de software
+#### Patente de software
 
 La patente de software es un derecho legal que otorga a su titular la exclusividad para usar, fabricar o vender una invención de software durante un período de tiempo determinado.
-  - Un documento legal que otorga derechos exclusivos sobre una invención de software durante un período específico.
-  - Una empresa patenta un algoritmo único utilizado en su software de inteligencia artificial.
+Un documento legal que otorga derechos exclusivos sobre una invención de software durante un período específico.
+Una empresa patenta un algoritmo único utilizado en su software de inteligencia artificial.
 
-### Dominio público: 
+#### Dominio público: 
 
 Es cuando algunas informaciones no están protegidas por derechos de autor y están disponibles para uso público sin restricciones.
 
 Obras literarias, como las obras de Shakespeare, que han estado en el dominio público durante siglos.
 Fotografías gubernamentales sin restricciones, como imágenes tomadas por agencias gubernamentales y disponibles para su uso público.
 
-### Distribución de software:
+#### Distribución de software:
 
 La distribución de software se refiere al proceso de proporcionar y hacer disponible un programa informático o aplicación a los usuarios finales.
-
 Descargar una aplicación de una tienda en línea, como la App Store de Apple o Google Play Store.
 Instalar software desde un DVD o un archivo descargado desde el sitio web oficial de un desarrollador.
 
 ### Shareware:
 
 Es un software comercial que se distribuye gratuitamente a los usuarios, ya sea en un formato limitado o en una versión de prueba que caduca tras un número establecido de días.
-
 WinRAR: Un programa de compresión de archivos que se puede descargar y utilizar de forma gratuita, pero se requiere una compra para obtener la versión completa sin restricciones.
-Minecraft: El popular videojuego ofrece una versión de demostración gratuita con limitaciones antes de que los jugadores compren la versión completa.
 
 ### El freeware:
 
