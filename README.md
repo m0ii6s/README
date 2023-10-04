@@ -16,18 +16,19 @@ Introducción:
 - [Adquisición de una computadora](Tarea1-4.md)
 
 ### UNIDAD II
-Software
+Software:
 - [Conceptos básicos de Software](Tarea2-1.md)
 - [Sistemas de codificación](Tarea2-2.md)
-- [Pseudocodigo]
-- [Algoritmos]
-- [De pseudocódigo a R]
+- [Pseudocódigo](Tarea2-3.md)
+- [Algoritmos](Tarea2-4.md)
 
-### UNNIDAD III
-Sistemas Operativos
+### UNIDAD III
+Sistemas operativos:
+- [Licenciamiento de Software](Tarea3-1.md)
+- [Instalación de sistemas operativos en un medio extraíble](Tarea3-2.md)
+- [Instalación de sistemas operativos como máquinas virtuales](Tarea3-3.md)
+- [Particiones y sistemas de archivos](Tarea3-4.md)
 
-####
-Bases de datos
-
-
+### UNIDAD IV
+Bases de datos: 
 
