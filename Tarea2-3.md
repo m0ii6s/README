@@ -13,6 +13,7 @@ Distinga entre el proceso principal y los subprocesos. Para cada subproceso iden
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%202.3%20(1).jpeg" width="500%"/>
 
+
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%202.3%20(2).jpeg" width="500%"/>
 
 Documente en un video de hasta 10 minutos su experiencia en la realización de la actividad y comparta el video en el grupo de Telegram. Suba los archivos creados o modificados a su cuenta de Google Drive donde corresponda.
