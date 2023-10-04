@@ -2,6 +2,7 @@
 
 ## Número de lista: 3 algoritmos 33 y 47
 
+```
 Proceso ejercicio
 		Definir x Como Entero;
 		Definir puntos,a,b,suma como real;
@@ -34,18 +35,16 @@ Proceso ejercicio
 		FinSi
 		Escribir "El promedio de puntos de contaminacion es: ",suma / 25;
 FinProceso
-
+```
 	
 
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%202.4.jpeg" height="400" width="600">
 
 
-
-
-
 Algoritmo 37
 
+```
 Proceso Traductorsimple
 		Dimension english[20];
 		Dimension spanish[20];
@@ -114,7 +113,7 @@ Proceso Traductorsimple
 		Hasta Que Mayusculas(letraSalir)=='S'
 		
 FinAlgoritmo
-
+```
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%202.4.1.jpeg" height="400" width="600">
 
