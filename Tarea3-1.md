@@ -18,7 +18,6 @@ Una empresa patenta un algoritmo único utilizado en su software de inteligencia
 #### Dominio público: 
 
 Es cuando algunas informaciones no están protegidas por derechos de autor y están disponibles para uso público sin restricciones.
-
 Obras literarias, como las obras de Shakespeare, que han estado en el dominio público durante siglos.
 Fotografías gubernamentales sin restricciones, como imágenes tomadas por agencias gubernamentales y disponibles para su uso público.
 
@@ -40,7 +39,7 @@ Mozilla Firefox: Un navegador web de código abierto que es completamente gratui
 Audacity: Un programa de edición de audio de código abierto que ofrece todas sus funciones de forma gratuita y sin limitaciones.
 
 
-#### copyright vs copyleft:
+#### Copyright vs copyleft:
 
 Copyright protege los derechos de autor, mientras que copyleft permite la redistribución y modificación bajo ciertas condiciones.
 Un programa de código abierto bajo licencia GPL permite a cualquiera usar, modificar y redistribuir el software siempre que comparta las modificaciones bajo la misma licencia.
