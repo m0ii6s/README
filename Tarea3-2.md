@@ -89,6 +89,8 @@ Para usar una imagen ISO, sigue estos pasos:
 
 Tambien se pudiera pedir permisos adicionales dependiendo de la configuración de tu equipo, de modo que siempre es importante revisar antes de hacer cualquier cosa
 
+## **Windows 7**
+
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Windows%207%20(1).jpeg" height="400" width="550">
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Windows%207%20(1).webp" height="400" width="550">
