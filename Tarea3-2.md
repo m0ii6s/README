@@ -99,6 +99,13 @@ Tambien se pudiera pedir permisos adicionales dependiendo de la configuración d
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Windows%207%20(3).jpeg" height="400" width="550">
 
+## Parte 4 . Esta parte de la práctica requiere un dispositivo externo (USB o disco duro externo).
+En un USB con capacidad mayor al archivo ISO que usará (mayor a 4 GiB) instale el programa para crear el USB live que le permitirá arrancar el sistema operativo a instalar, con alguna de las siguientes aplicaciones:
+
+En clase instalamos Fedora:
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Fedora%20en%20usb.jpeg" height="400" width="550">
+
 
 > [Continuar](Tarea3-3.md)
 
