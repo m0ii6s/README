@@ -1,4 +1,5 @@
 # INSTALACIÓN DE SISTEMAS OPERATIVOS EN UN MEDIO EXTRAÍBLE
+----
 
 Un sistema operativo (SO) es un conjunto de programas y software que gestionan los recursos de hardware de un dispositivo, como la CPU, la memoria, los dispositivos de almacenamiento y los periféricos, y facilita la interacción entre el usuario y el hardware. Además, proporciona servicios y funciones esenciales para que otros programas (aplicaciones) se ejecuten de manera eficiente.
 
@@ -61,6 +62,32 @@ Ahora, comparando estos sistemas operativos en términos de ventajas, desventaja
    - **macOS**: Conocido por su estabilidad y confiabilidad, especialmente cuando se ejecuta en hardware de Apple.
    - **Linux**: Generalmente es muy robusto y puede funcionar durante largos períodos sin reiniciarse.
 
+## Parte 2 . Investigue qué es una imagen ISO y cómo se usa.
+
+Una imagen ISO es un archivo que contiene una copia exacta de la estructura y contenido de un medio de almacenamiento óptico, como un CD o un DVD. El término "ISO" proviene del nombre del formato de archivo, que es un estándar internacional (ISO 9660) para la creación de imágenes de discos. Las imágenes ISO pueden utilizarse para respaldar y distribuir software, así como para instalar sistemas operativos y aplicaciones.
+
+Para usar una imagen ISO, sigue estos pasos:
+
+1. **Montar la imagen ISO**:
+
+   - **En Windows**:
+     1. Puedes hacer doble clic en el archivo ISO y, si tienes una aplicación para montar imágenes, se abrirá automáticamente. Si no, puedes instalar un software como "WinCDEmu", "Daemon Tools" o utilizar la función de montaje incorporada en versiones más recientes de Windows.
+
+   - **En macOS**:
+     1. Puedes hacer doble clic en el archivo ISO y se montará automáticamente. Aparecerá en el Finder como si fuera un disco físico.
+
+   - **En Linux**:
+     1. Abre una terminal y utiliza el comando `mount` o utiliza el gestor de archivos para abrir la imagen. Por ejemplo, puedes usar el comando `sudo mount -o loop archivo.iso /media/directorio` (reemplazando `archivo.iso` y `/media/directorio` con la ubicación de tu imagen ISO y el directorio de montaje, respectivamente).
+
+2. **Grabar la imagen en un disco físico**:
+
+   - Si deseas crear un disco físico a partir de la imagen ISO, puedes usar un programa de grabación de discos, como "ImgBurn" en Windows, o el "Finder" en macOS (selecciona la imagen ISO y haz clic en "Grabar").
+
+3. **Utilizar la imagen ISO para instalar un sistema operativo**:
+
+   - Si la imagen ISO contiene un sistema operativo, puedes usarla para instalarlo en tu computadora. Esto generalmente se hace mediante un proceso conocido como "arranque desde el disco". Para ello, deberás configurar la BIOS o UEFI de tu computadora para que arranque desde el medio donde tengas la imagen ISO (por ejemplo, un CD/DVD o una unidad USB). Luego, sigue las instrucciones del instalador del sistema operativo.
+
+Tambien se pudiera pedir permisos adicionales dependiendo de la configuración de tu equipo, de modo que siempre es importante revisar antes de hacer cualquier cosa
 
 > [Continuar](Tarea3-3.md)
 
