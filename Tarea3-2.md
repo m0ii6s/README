@@ -104,7 +104,7 @@ En un USB con capacidad mayor al archivo ISO que usará (mayor a 4 GiB) instale 
 
 En clase instalamos Fedora:
 
-<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Fedora%20en%20usb.jpeg" height="400" width="550">
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Fedora%20en%20usb.jpeg" height="400" width="700">
 
 
 > [Continuar](Tarea3-3.md)
