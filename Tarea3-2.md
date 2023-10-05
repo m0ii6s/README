@@ -106,6 +106,48 @@ En clase instalamos Fedora:
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Fedora%20en%20usb.jpeg" height="400" width="700">
 
+¡Claro! Aquí tienes las definiciones de esos términos:
+
+1. **Bootear un equipo**:
+   - Significa iniciar o arrancar un sistema operativo en una computadora. El proceso de arranque comienza cuando enciendes o reinicias tu computadora y el sistema operativo se carga en la memoria para que puedas empezar a utilizarla.
+
+2. **BIOS (Basic Input/Output System)**:
+   - La BIOS es un conjunto de instrucciones almacenado en un chip de la placa base de una computadora. Es responsable de realizar tareas básicas de entrada/salida, como el proceso de arranque, la detección de hardware y la configuración inicial del sistema. La BIOS se carga antes de que se inicie el sistema operativo y proporciona una interfaz para configurar aspectos básicos del hardware.
+
+3. **UEFI (Unified Extensible Firmware Interface)**:
+   - UEFI es el sucesor de la BIOS. Al igual que la BIOS, el UEFI es un software que reside en la placa base, pero ofrece funcionalidades más avanzadas y flexibilidad en comparación con la BIOS tradicional. UEFI proporciona una interfaz gráfica y soporta discos duros de más de 2TB, entre otras mejoras.
+
+4. **Partición (Física y Lógica)**:
+   - **Partición Física**: Es una sección individual de un disco duro que se trata como una unidad independiente. Cada partición puede contener un sistema de archivos y un sistema operativo diferente. Los discos duros pueden tener múltiples particiones.
+   - **Partición Lógica**: En un esquema de particiones MBR (ver siguiente punto), una partición lógica es una subdivisión de una partición extendida. Las particiones lógicas permiten tener más de cuatro particiones en un disco.
+
+5. **Partición de Arranque (Boot)**:
+   - Es la partición en la que se encuentra el sistema operativo que se inicia al encender la computadora. En sistemas basados en BIOS, esto se refiere a la partición activa; en sistemas UEFI, el cargador de arranque (como GRUB o el gestor de arranque de Windows) está instalado en una partición especial de sistema EFI.
+
+6. **GPT (GUID Partition Table)**:
+   - Es un formato de tabla de particiones moderno que reemplaza al formato más antiguo MBR. GPT es parte del estándar UEFI y puede manejar discos de más de 2TB. También permite un número mucho mayor de particiones y proporciona mayor resiliencia contra fallos.
+
+7. **MBR (Master Boot Record)**:
+   - Es un formato de tabla de particiones más antiguo y fue el estándar en BIOS. MBR tiene ciertas limitaciones, como la capacidad de manejar discos de hasta 2TB y solo puede tener cuatro particiones primarias (o tres primarias y una extendida con múltiples lógicas). Aunque MBR sigue siendo común, especialmente en sistemas más antiguos, está siendo reemplazado gradualmente por GPT.
+
+## **Parte 6**
+Para instalar el sistema operativo Linux en otro USB, de manera permanente y usarlo alternativamente desde su USB, conservando los cambios que haga en él, utilice el siguiente procedimiento. Ejecute la parte 4 y 5. Una vez arrancado el USB Live puede utilizar un disco duro externo de baja capacidad vacío o una memoria USB vacía de por lo menos 64 GB.
+
+con la memoria de arranque descargo el fedora portable en la memoria de 64 gb
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Fed%20listo.jpeg" height="400" width="550">
+
+Instale el fedora en la memoria de 64 gb y me di cuenta que para cuando la colocas en windows no lo reconoce
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Fedora%20en%20usb%202.jpeg" height="400" width="550">
+
+Bios de la computadora
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Bios.jpeg" height="400" width="550">
+
+Terminado
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Fed%20instalado.jpeg" height="400" width="550">
 
 > [Continuar](Tarea3-3.md)
 
