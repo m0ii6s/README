@@ -79,6 +79,17 @@ El proyecto GNU utiliza la licencia GPL y es respaldado por la Free Software Fou
 
 Para comprender las diferencias entre los tres tipos de software (privativo, abierto y libre), es útil analizar sus ventajas y desventajas, así como considerar las filosofías, enfoques técnicos y aspectos económicos que los rodean. 
 
+### The code
+Digamos que el código son todos aquellos que participaron en la programación de un software libre para todo el público
+La película o documentar relata los ideales de Linus, un hombre cuyo objetivo era ser capaz de crear un software para cualquier persona con un ordenador.
+Aproximadamente en el siglo XVIII (1990) que es cuando surge Microsoft y tiene el monopolio del mercado es cuando se sitúa el inicio del documental
+Posteriormente pasan una serie de cosas que llevan a un código abierto este mismo estaba al alcance de todos pudiendo ser modificado adaptándose a las necesidades del usuario
+ Se funda Linux y se alía con GNU para poder establecer un software completo sin embargo surgen varias represalias, puesto que detrás de esto hay enormes cantidades de dinero por la popularidad que toma y los usuarios que gana en el proceso
+Relatan también avistamientos de hackers que son personas prodigio que aportan mucho y otras tantas que sacan partido del código abierto
+A mí punto de vista esto representa una competencia entre las grandes franquicias de computadoras para establecer un buen sistema, para los usuarios osea nosotros esto hace que mejoren sus servicios y bajen sus costos, pensando en ganar la mayor parte del mercado
+En este caso Microsoft se empeña en trabajar en seguridad para sus códigos (ej. Multimedia) esto conlleva a lo que tenemos hoy en día, puesto a qué en su momento se desarrollaron las tecnologías de manera oportuna y cada quien les saco el máximo uso
+Pd: el documental estaba en inglés y fallaban mucho los subtítulos
+
 ### Software Privativo:
 
 #### Ventajas:
