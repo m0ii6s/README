@@ -37,11 +37,12 @@ Proceso ejercicio
 FinProceso
 ```
 	
-<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Ejercicio%2033.jpeg" height="400" width="600">
-
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%202.4.jpeg" height="400" width="600">
 
+### Diagrama de flujo
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Ejercicio%2033.jpeg" height="400" width="600">
 
 Algoritmo 47
 
@@ -115,11 +116,12 @@ Proceso Traductorsimple
 		
 FinAlgoritmo
 ```
-<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Ejercicio%2047.jpeg" height="400" width="600">
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%202.4.1.jpeg" height="400" width="600">
 
 
+### Diagrama de flujo
 
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Ejercicio%2047.jpeg" height="400" width="600">
 
 
 
