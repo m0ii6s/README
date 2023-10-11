@@ -24,6 +24,8 @@ Para cambiar el tipo de sistema de archivos podemos formatear la USB (en este ca
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/G%20parted%203.jpeg" height="150" width="400">
 
+Instale lo solicitado, pero me arrojaba una advertencia, yo prefiero dejarlo ahi, por que no se como se instala correctamente
+
 > [Volver](Tarea3-3.md)
 
 > [Pag. Principla](README.md)
