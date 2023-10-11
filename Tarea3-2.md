@@ -106,7 +106,6 @@ En clase instalamos Fedora:
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Fedora%20en%20usb.jpeg" height="400" width="700">
 
-¡Claro! Aquí tienes las definiciones de esos términos:
 
 1. **Bootear un equipo**:
    - Significa iniciar o arrancar un sistema operativo en una computadora. El proceso de arranque comienza cuando enciendes o reinicias tu computadora y el sistema operativo se carga en la memoria para que puedas empezar a utilizarla.
