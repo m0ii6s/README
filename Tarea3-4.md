@@ -5,7 +5,7 @@
 
 <img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%203.4%20().jpeg" height="700" width="550">
 
-<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%203.4.1.jpeg" height="100" width="300">
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Tarea%203.4.1.jpeg" height="200" width="400">
 
 
 
