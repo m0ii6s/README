@@ -26,6 +26,9 @@ Para cambiar el tipo de sistema de archivos podemos formatear la USB (en este ca
 
 Instale lo solicitado, pero me arrojaba una advertencia, yo prefiero dejarlo ahi, por que no se como se instala correctamente
 
+y bueno, aqui el link del video de la experiencia:
+https://drive.google.com/drive/folders/1MLKiWAUyXE8JNlFNbaLAp6mgm7y65qZ4?usp=drive_link
+
 > [Volver](Tarea3-3.md)
 
 > [Pag. Principla](README.md)
