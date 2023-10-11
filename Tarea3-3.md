@@ -23,6 +23,10 @@ Para instalar un sistema operativo en una máquina virtual, sigue estos pasos ge
 
 Con esto se deberia poder tener un sistema operativo funcionando en tu máquina virtual. se puede repetir este proceso para crear varias máquinas virtuales con diferentes sistemas operativos en el host físico. 
 
+Lamentablemente no se pudo instalar virtual box y por consecuente no pude realizar las otras partes de las actividades, agrego el link donde tambien viene el video de mi experiencia en esta actividad
+
+https://drive.google.com/drive/folders/1anyu6NnJXvQBoEpdp6fpQ4YO2A4N1ZZx?usp=drive_link
+
 > [Continuar](Tarea3-4.md)
 
 > [Volver](Tarea3-2.md)
