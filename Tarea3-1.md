@@ -144,7 +144,8 @@ Las biografías de Bill Gates, Eric S. Raymond y Richard Stallman reflejan estas
 
 En última instancia, la elección entre estos modelos de software depende de los objetivos de los usuarios y las organizaciones. Cada uno tiene sus ventajas y desventajas, y lo importante es encontrar el equilibrio que mejor se adapte a las necesidades y prioridades de cada situación.
 
-
+link del video:
+https://drive.google.com/drive/folders/1KmMFkBeHAY-LREFibGvSC9RAcVzfMtOr?usp=drive_link
 
 
 
