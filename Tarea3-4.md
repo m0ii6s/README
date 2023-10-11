@@ -14,8 +14,15 @@
 Para cambiar el tipo de sistema de archivos podemos formatear la USB (en este caso) y seleccionar el que se adecue
 
 
-<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Formatear.jpeg" height="300" width="450">
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Formatear.jpeg" height="300" width="440">
 
+#### Parte 3 . Repita las mismas operaciones de la Parte 3 de esta práctica usando la aplicación GParted Live CD/USB/HD/PXE Bootable Image copiando el archivo ISO en el USB con Ventoy y arrancando el ISO. Utilice este tutorial. Compare Disk Management y gParted y saque sus conclusiones.
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Gparted%201.jpeg" height="700" width="550">
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Gparted%202.jpeg" height="700" width="550">
+
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/G%20parted%203.jpeg" height="700" width="550">
 
 > [Volver](Tarea3-3.md)
 
