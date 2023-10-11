@@ -1,6 +1,4 @@
 
-<img src="Images/UAM Logo PNG.png" alt="UAM I" width="20%"/>
-
 # Informatica
 ## De la Rosa Becerril Moises Abraham
 **Correo Electronico:**  m.delarosa.b.a@gmail
@@ -21,6 +19,8 @@ Software:
 - [Sistemas de codificación](Tarea2-2.md)
 - [Pseudocódigo](Tarea2-3.md)
 - [Algoritmos](Tarea2-4.md)
+- [De pseudocódigo a R](Tarea2-5.md)
+
 
 ### UNIDAD III
 Sistemas operativos:
