@@ -14,7 +14,7 @@
 Para cambiar el tipo de sistema de archivos podemos formatear la USB (en este caso) y seleccionar el que se adecue
 
 
-<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Formatear.jpeg" height="400" width="550">
+<img src="https://github.com/m0ii6s/README/blob/main/Imagenes/Formatear.jpeg" height="300" width="450">
 
 
 > [Volver](Tarea3-3.md)
